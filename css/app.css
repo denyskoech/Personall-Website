@@ -9,22 +9,22 @@ body{
 
 .landing {
     width: 100%;
-    height: 680px;
+    height: 685px;
     background: url(../img/darthvader.jpg);
     background-size: cover;
 }
 
 .landing h1 {
-    color: #4e3e3e;
-    font-size: 40px;
+    color: #8eeb9c;
+    font-size: 50px;
     text-align: center;
     padding-top: 220px;
     font-family: 'Francois One', sans-serif;
 }
 
 .landing p {
-    color: white;
-    font-size: 25px;
+    color: #67e2f2;
+    font-size: 30px;
     text-align: center;
     font-family: 'Shadows Into Light', cursive;
 }
